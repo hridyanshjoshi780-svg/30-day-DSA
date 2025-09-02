@@ -8,6 +8,9 @@ I'll be showing up here every day with:
    C++ code with comments
    What I learned
    Organized daily folders for easy tracking
+learning :
+day 1 - output string , simple addition program 
+day 2 - basic program using for loop, while loop, do while loop 
 
  Tech Stack
 - Language: C++
