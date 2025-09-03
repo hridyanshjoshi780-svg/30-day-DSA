@@ -12,6 +12,7 @@ I'll be showing up here every day with:
 learning :
 day 1 - output string , simple addition program .
 day 2 - basic program using for loop, while loop, do while loop .
+day 3 - patterns using for loop .
 
  Tech Stack
 - Language: C++
