@@ -13,6 +13,7 @@ learning :
 day 1 - output string , simple addition program .
 day 2 - basic program using for loop, while loop, do while loop .
 day 3 - patterns using for loop .
+day 4 - conditional statements (if else ) . 
 
  Tech Stack
 - Language: C++
