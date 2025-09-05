@@ -1,7 +1,7 @@
 # 30-day-DSA
 A 30-day coding journey where I learn and implement Data Structures and Algorithms using C++. Each day includes code, concepts learned, and progress updates.
 #30 Days of DSA in C++
-Welcome to my 30-day journey of learning and implementing Data Structures and Algorithms DSA using C++ 
+Welcome to my 30-day journey of learning and implementing Data Structures and Algorithms DSA using C++
 
 I'll be showing up here every day with:
    A new concept or problem solved
