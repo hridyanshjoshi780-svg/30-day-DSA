@@ -16,6 +16,7 @@ day 3 - patterns using for loop .
 day 4 - conditional statements (if else ) . 
 day 5 - calculator with input validation and a simple factorial program (both using function) .
 day 6 - hollow diamond using function .
+day 7 - linear search and binary search .
 
  Tech Stack
 - Language: C++
